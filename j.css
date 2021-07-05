@@ -1,0 +1,24 @@
+div.box{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	transition: 0.5s;
+}
+div.card{
+	width: 250px;
+	text-align: center;
+    margin-top: 30px;
+	border: 1px solid; grey;
+	transition: 0.3s;
+}
+div.card img{
+	width: 100%;
+}
+div.card:hover{
+	box-shadow: 0 0 10px 13px rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+}
+.n{
+	color: #a0a0a0;
+}

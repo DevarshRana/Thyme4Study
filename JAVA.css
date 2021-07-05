@@ -1,0 +1,24 @@
+.g{
+	color: white;
+	width: 300px;
+	height: 616px;
+	border: 1px solid transparent;
+	background: hsl(213, 23%, 28%);
+	text-decoration: none;
+}
+.g a{
+	margin-left: 20px;
+	margin-top: 20px;
+	color: white;
+	text-decoration: none;
+	transition: 0.5s;
+}
+.g a:hover{
+	margin-left: 40px;
+}
+.g a:active{
+	color: #dcdcdc;
+}
+.Hi{
+	text-align: right;
+}	
